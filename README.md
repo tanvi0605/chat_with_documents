@@ -17,13 +17,10 @@ Built with **Streamlit**, **LangChain**, **Google Generative AI**, and **Sentenc
 
 ## 💻 **Technologies Used** 🔧
 This project uses some of the coolest tools in AI and data processing:
-- **Python 3.x** – The backbone of this app. 🐍
-- **Streamlit** – For creating a sleek and responsive web interface. 🎨
 - **LangChain** – For chaining multiple AI models into one powerful tool. 🔗
 - **Google Generative AI** – To generate embeddings and connect dots in the document. 🌐
-- **Sentence-Transformers** – For making text embeddings smarter and faster. ⚡
 - **FAISS** – To store and search embeddings like a pro. 🔎
-- **PyPDF2** – The magic wand for extracting text from PDFs. ✨
+- - **Streamlit** – For creating a sleek and responsive web interface. 🎨
 
 ---
 
@@ -51,10 +48,9 @@ After processing is complete, simply type your questions in the input box. Based
 Here's what the project looks like under the hood:
 
 ```bash
-your-repository-name/
+Chat_with_documents/
 │
 ├── app.py                 # The magic code that powers the Streamlit app
 ├── requirements.txt       # List of Python dependencies (for non-conda users)
 ├── .env                   # Your secret environment variables (API keys)
 ├── README.md              # This file - your guide to the project!
-└── faiss_index/           # Where the FAISS vector store is saved (for efficient querying)
