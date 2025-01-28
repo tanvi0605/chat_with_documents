@@ -44,9 +44,9 @@ After processing is complete, simply type your questions in the input box. Based
 ---
 RESULT
 
-[[![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)](https://github.com/tanvi0605/chat_with_documents/blob/4324d8bc925a568f3e7d560c3b468b78eff4fe52/Screenshot%20(3).png)
+[[[![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)](https://github.com/tanvi0605/chat_with_documents/blob/4324d8bc925a568f3e7d560c3b468b78eff4fe52/Screenshot%20(3).png)
 ](https://github.com/tanvi0605/chat_with_documents/blob/70968e2703aa0fa7e59c7abe4829e7114f9247c8/image.png)
-
+](https://github.com/tanvi0605/chat_with_documents/blob/main/image.png?raw=true)
 ## 🏗️ **Project Structure** 📂
 
 Here's what the project looks like under the hood:
