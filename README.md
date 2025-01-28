@@ -8,10 +8,10 @@ Welcome to the *Chat with PDF using Gemini* project! Imagine being able to chat 
 Built with **Streamlit**, **LangChain**, **Google Generative AI**, and **Sentence Transformers**, this app lets you turn static PDF files into dynamic conversations. 🤖💬
 
 ### ✨ **Key Features:**
-- **Multiple PDF Uploads**: Upload one or more PDFs in seconds. 📄
-- **Smart Text Processing**: Automatically extracts and splits text from PDFs into manageable chunks. 📑
-- **Embedding Magic**: Utilizes advanced embedding models to make sense of the text. 🔮
-- **Interactive Q&A**: Ask anything, and get responses based on the content of your uploaded documents! 🔍❓
+- **Single PDF Upload**: Upload a PDF in seconds and start interacting with it. 📄
+- **Smart Text Processing**: Automatically extracts and splits the text from the PDF into manageable chunks. 📑
+- **Embedding Magic**: Utilizes advanced embedding models to understand and process the text. 🔮
+- **Interactive Q&A**: Ask anything, and get responses based on the content of your uploaded document! 🔍❓
 
 ---
 
