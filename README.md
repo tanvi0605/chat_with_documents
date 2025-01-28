@@ -50,7 +50,7 @@ Here's what the project looks like under the hood:
 ```bash
 Chat_with_documents/
 │
-├── app.py                 # The magic code that powers the Streamlit app
-├── requirements.txt       # List of Python dependencies (for non-conda users)
-├── .env                   # Your secret environment variables (API keys)
-├── README.md              # This file - your guide to the project!
+├── app.py                 
+├── requirements.txt      
+├── .env                   
+├── README.md          
