@@ -56,4 +56,5 @@ Chat_with_documents/
 ├── README.md          
 
 RESULT
-![image](https://github.com/user-attachments/assets/c14d1552-16df-423d-9dab-a289dbd2b699)
+
+![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)
