@@ -54,7 +54,7 @@ Chat_with_documents/
 ├── requirements.txt      
 ├── .env                   
 ├── README.md          
-
+---
 RESULT
 
 [![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)](https://github.com/tanvi0605/chat_with_documents/blob/4324d8bc925a568f3e7d560c3b468b78eff4fe52/Screenshot%20(3).png)
