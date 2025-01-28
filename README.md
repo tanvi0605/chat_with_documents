@@ -20,7 +20,7 @@ This project uses some of the coolest tools in AI and data processing:
 - **LangChain** – For chaining multiple AI models into one powerful tool. 🔗
 - **Google Generative AI** – To generate embeddings and connect dots in the document. 🌐
 - **FAISS** – To store and search embeddings like a pro. 🔎
-- - **Streamlit** – For creating a sleek and responsive web interface. 🎨
+- **Streamlit** – For creating a sleek and responsive web interface. 🎨
 
 ---
 
