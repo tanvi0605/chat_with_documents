@@ -42,6 +42,10 @@ After processing is complete, simply type your questions in the input box. Based
 - **Answer**: The model will provide the most relevant answer based on the document’s content. 🎯
 
 ---
+RESULT
+
+[[![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)](https://github.com/tanvi0605/chat_with_documents/blob/4324d8bc925a568f3e7d560c3b468b78eff4fe52/Screenshot%20(3).png)
+](https://github.com/tanvi0605/chat_with_documents/blob/70968e2703aa0fa7e59c7abe4829e7114f9247c8/image.png)
 
 ## 🏗️ **Project Structure** 📂
 
@@ -55,7 +59,3 @@ Chat_with_documents/
 ├── .env                   
 ├── README.md          
 ---
-RESULT
-
-[[![Image](https://github.com/user-attachments/assets/4421b730-ad7f-4c2b-a3db-c5fc1745fc0d)](https://github.com/tanvi0605/chat_with_documents/blob/4324d8bc925a568f3e7d560c3b468b78eff4fe52/Screenshot%20(3).png)
-](https://github.com/tanvi0605/chat_with_documents/blob/70968e2703aa0fa7e59c7abe4829e7114f9247c8/image.png)
