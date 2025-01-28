@@ -54,3 +54,6 @@ Chat_with_documents/
 ├── requirements.txt      
 ├── .env                   
 ├── README.md          
+
+RESULT
+![image](https://github.com/user-attachments/assets/c14d1552-16df-423d-9dab-a289dbd2b699)
