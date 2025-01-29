@@ -5,7 +5,7 @@
 ### 🚀 **Overview**
 Welcome to the *Chat with PDF using Gemini* project! Imagine being able to chat with a document as if it were a knowledgeable assistant. Upload your PDF files, ask questions, and **watch the magic happen** as the AI processes the content and gives you accurate, context-based answers. 
 
-Built with **LangChain**, **Streamlit**, **Google Generative AI** this app lets you turn static PDF files into dynamic conversations. 🤖💬
+Built with **LangChain**, **Streamlit**, and **Google Generative AI**, this app lets you turn static PDF files into dynamic conversations. 🤖💬
 
 ### ✨ **Key Features:**
 - **Single PDF Upload**: Upload a PDF in seconds and start interacting with it. 📄
@@ -41,9 +41,18 @@ After processing is complete, simply type your questions in the input box. Based
 - **Answer**: The model will provide the most relevant answer based on the document’s content. 🎯
 
 ---
-RESULT
 
-![Image](https://github.com/user-attachments/assets/d1ab5363-87c9-49aa-a586-8feb29f0cb0f)
+## 🖼️ **Result & History Preservation**
+
+- **Sample Result:**
+  ![Image](https://github.com/user-attachments/assets/d1ab5363-87c9-49aa-a586-8feb29f0cb0f)
+  *Above is an example of how the model generates responses based on the document content.*
+
+- **History Preservation:**
+  ![Image](https://github.com/user-attachments/assets/e64322f8-9423-4676-a670-404068ad33ad)
+  *This feature preserves your previous interactions, allowing you to revisit your questions and answers anytime!*
+
+---
 
 ## 🏗️ **Project Structure** 📂
 
@@ -52,7 +61,6 @@ Here's what the project looks like under the hood:
 ```bash
 Chat_with_documents/
 │
-├── main.py                      
-├── .env                   
-├── README.md          
----
+├── main.py                      # Core app logic
+├── .env                          # Environment variables (API keys, etc.)
+├── README.md                     # You're looking at it! 😉
