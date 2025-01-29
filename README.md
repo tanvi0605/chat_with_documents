@@ -14,14 +14,14 @@ Built with **LangChain**, **Streamlit**, and **Google Generative AI**, this app 
 
 ---
 
-## 💻 **Technologies Used** 🔧
+## **Technologies Used** 💻 
 This project uses some of the coolest tools in AI and data processing:
 - **LangChain** – For chaining multiple AI models into one powerful tool. 🔗
 - **Google Generative AI** – For generating responses based on document context and user queries. 🌐
 - **Streamlit** – For creating a sleek and responsive web interface. 🎨
 ---
 
-## 🌟 **How to Use the Chatbot** 💬
+## **How to Use the Chatbot** 💬
 
 Get ready to interact with your PDFs in a whole new way! Here's how to start:
 
