@@ -10,7 +10,7 @@ Built with **LangChain**, **Streamlit**, **Google Generative AI** this app lets 
 ### ✨ **Key Features:**
 - **Single PDF Upload**: Upload a PDF in seconds and start interacting with it. 📄
 - **Interactive Q&A**: Ask anything, and get responses based on the content of your uploaded document! 🔍❓
-- **History Preservation**: Keep track of all your previous questions and answers, and easily refer back to them anytime! 🔄📝
+- **History Preservation**: Keep track of all your previous questions and answers. 🔄📝
 
 ---
 
