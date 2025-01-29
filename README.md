@@ -17,7 +17,7 @@ Built with **LangChain**, **Streamlit**, and **Google Generative AI**, this app 
 ## 💻 **Technologies Used** 🔧
 This project uses some of the coolest tools in AI and data processing:
 - **LangChain** – For chaining multiple AI models into one powerful tool. 🔗
-- **Sentence-BERT** – For generating document embeddings for efficient search and comparison. 🧠
+- **Google Generative AI** – For generating responses based on document context and user queries. 🌐
 - **Streamlit** – For creating a sleek and responsive web interface. 🎨
 ---
 
