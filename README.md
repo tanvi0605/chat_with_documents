@@ -53,8 +53,7 @@ Here's what the project looks like under the hood:
 ```bash
 Chat_with_documents/
 │
-├── app.py                 
-├── requirements.txt      
+├── main.py                      
 ├── .env                   
 ├── README.md          
 ---
