@@ -9,9 +9,10 @@ Built with **LangChain**, **Streamlit**, and **Google Generative AI**, this app 
 
 ### ✨ **Key Features:**
 - **Single PDF Upload**: Upload a PDF in seconds and start interacting with it. 📄
-- **Interactive Q&A**: Ask anything, and get responses based on the content of your uploaded document! 🔍❓
-- **History Preservation**: Keep track of all your previous questions and answers. 🔄📝
-- **Customizable Answer Length**: Get brief, medium, or detailed responses based on your preference. ✂️📄
+- **Interactive Q&A**: Ask anything, and get responses based on the content of your uploaded document! 🔍
+- **History Preservation**: Keep track of all your previous questions and answers. 📝
+- **Download History**: Download your entire conversation history in a neat CSV file for reference or further analysis. 📥
+- **Customizable Answer Length**: Get brief, medium, or detailed responses based on your preference. 📄
 - **Text Preview**: Preview the content of the uploaded document before interacting. 📑
 
 ---
@@ -50,9 +51,11 @@ After processing is complete, simply type your questions in the input box. Based
   ![Image](https://github.com/user-attachments/assets/d1ab5363-87c9-49aa-a586-8feb29f0cb0f)
   *Above is an example of how the model generates responses based on the document content.*
 
-- **History Preservation:**
+- **History Preservation & Download:**
+  All your questions and answers are stored in history for easy reference. You can **download** the conversation history in a CSV format by clicking the **"Download History"** button, making it easy to save or analyze your interactions. 🗂️💾
+
   ![Image](https://github.com/user-attachments/assets/e64322f8-9423-4676-a670-404068ad33ad)
-  *This feature preserves your previous interactions, allowing you to revisit your questions and answers anytime!*
+  *This feature preserves your previous interactions, allowing you to revisit your questions and answers anytime and download the history if needed!*
 
 ---
 
@@ -66,3 +69,4 @@ Chat_with_documents/
 ├── main.py                      # Core app logic
 ├── .env                          # Environment variables (API keys, etc.)
 ├── README.md                     # You're looking at it! 😉
+
