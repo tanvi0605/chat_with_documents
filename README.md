@@ -48,7 +48,7 @@ After processing is complete, simply type your questions in the input box. Based
 ## 🖼️ **Result & History Preservation**
 
 - **Sample Result:**
-  ![Image](https://github.com/user-attachments/assets/d1ab5363-87c9-49aa-a586-8feb29f0cb0f)
+![Image](https://github.com/user-attachments/assets/721b0da4-d0d2-4d3f-a8b1-1f1d179cacb3)
   *Above is an example of how the model generates responses based on the document content.*
 
 - **History Preservation & Download:**
