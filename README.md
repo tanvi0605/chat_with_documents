@@ -52,9 +52,9 @@ After processing is complete, simply type your questions in the input box. Based
   *Above is an example of how the model generates responses based on the document content.*
 
 - **History Preservation & Download:**
-  All your questions and answers are stored in history for easy reference. You can **download** the conversation history in a CSV format by clicking the **"Download History"** button, making it easy to save or analyze your interactions. 🗂️💾
+  All your questions and answers are stored in history for easy reference. You can **download** the conversation history in a txt format by clicking the **"Download History"** button, making it easy to save or analyze your interactions. 🗂️💾
 
-  ![Image](https://github.com/user-attachments/assets/e64322f8-9423-4676-a670-404068ad33ad)
+![Image](https://github.com/user-attachments/assets/e6fd937a-73f2-4f35-94b6-2fcaebea255c)
   *This feature preserves your previous interactions, allowing you to revisit your questions and answers anytime and download the history if needed!*
 
 ---
